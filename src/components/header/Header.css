@@ -1,0 +1,11 @@
+.header nav{
+    background-color: black;
+}
+.header nav a{
+    padding: 5px 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+.header nav a:hover{
+    color: yellow;
+}
