@@ -1,0 +1,16 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid #000;
+}
+.product-desc{
+    text-align: left;
+    padding-bottom: 15px;
+}
+.product-img{
+    margin: 0px 20px;
+}
+.btn-regular{
+    background-color: tomato;
+    border-radius: 7px;
+    padding: 6px 12px;
+}
